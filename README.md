@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shengkanghe
 - 👀 I’m interested in ACG
-- 🌱 I’m currently learning DET
-- 📫 How to reach me qq:1961210260
+- 🌱 I’m currently learning
+- 📫 How to reach me qq:1961210261
 
 
 <!---
